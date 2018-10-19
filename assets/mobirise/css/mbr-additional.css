@@ -1767,7 +1767,11 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-r6VLqKUrXx {
-  background-image: url("../../../assets/images/mbr-1920x1246.jpg");
+  background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
+}
+.cid-r6VLqKUrXx .mbr-text,
+.cid-r6VLqKUrXx .mbr-section-btn B {
+  color: #f9f295;
 }
 .cid-r6VOtalXZw {
   padding-top: 90px;
