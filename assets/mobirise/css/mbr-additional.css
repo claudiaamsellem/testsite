@@ -10151,14 +10151,28 @@ body {
 .cid-raaXI9Rfq4 .mbr-section-subtitle {
   color: #767676;
 }
-.cid-raaY7PPDEB {
-  padding-top: 0px;
-  padding-bottom: 15px;
+.cid-raevcMOVZY {
+  padding-top: 30px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-raaY7PPDEB .media-container-row .mbr-text {
-  color: #000000;
-  text-align: left;
+.cid-raevcMOVZY [class^="socicon-"]:before,
+.cid-raevcMOVZY [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+.cid-raevcMOVZY .btn-social {
+  border-color: #149dcc;
+}
+.cid-raevcMOVZY .btn-social:hover {
+  background: #149dcc;
+}
+.cid-raevcMOVZY .btn-social:hover i.socicon {
+  color: #ffffff !important;
+}
+@media (max-width: 767px) {
+  .cid-raevcMOVZY .btn {
+    font-size: 20px !important;
+  }
 }
 .cid-raaXMO0LMA {
   padding-top: 0px;
